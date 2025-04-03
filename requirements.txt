@@ -6,7 +6,7 @@ scipy>=1.7.0
 # NLP libraries
 spacy>=3.3.0
 # Use direct URL for the spaCy model compatible with spacy v3.3.x
-en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.3.0/en_core_web_lg-3.3.0.tar.gz
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0.tar.gz
 
 nltk>=3.6.5
 transformers>=4.18.0
